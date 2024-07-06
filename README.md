@@ -1,15 +1,34 @@
 # Pass-Encryption
 
-Pass-encrypt is a CLI utility designed to generate extremely strong passwords for your emails and account. It provides maximum safety of your password by using custom algorithm encryption techniques, making your passwords nearly impossible to get hacked. You are able to securely protect your private data with pass-encrypt, making sure that any online accounts you have are safe from possible hackers.
+Pass-encrypt is a command-line interface (CLI) utility crafted to generate highly secure passwords for your email accounts and other online services. It employs advanced custom encryption algorithms to ensure maximum password safety, virtually eliminating the risk of unauthorized access. With pass-encrypt, you can confidently safeguard your sensitive data, ensuring your online accounts remain impervious to potential security breaches.
 
 ## Dependencies
 
 - GoLang
 - Make
 
-## How to Build
+## Installation
 
-To build pass-encrypt, execute the following command:
+### Linux
 
 ```bash
-make
+make linux
+```
+### Windows
+
+```bash
+make macos
+```
+### Linux
+
+```bash
+make macos
+```
+##Getting Started
+
+Once built, run the encrypt executable to generate strong passwords.
+by executing:
+
+```bash
+encrypt
+```
