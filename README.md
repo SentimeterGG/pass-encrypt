@@ -19,12 +19,12 @@ make linux
 ```bash
 make macos
 ```
-### Linux
+### Mac OS
 
 ```bash
 make macos
 ```
-##Getting Started
+## Getting Started
 
 Once built, run the encrypt executable to generate strong passwords.
 by executing:
